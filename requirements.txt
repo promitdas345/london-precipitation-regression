@@ -1,0 +1,9 @@
+# Direct imports of COMP3400_MiniProject.ipynb.
+# Verified working with the versions in brackets (Python 3.13.9).
+numpy          # [2.3.5]
+pandas         # [2.3.3]
+scikit-learn   # [1.7.2]  LinearRegression, train_test_split, r2_score only
+matplotlib     # [3.10.6]
+
+# To open the notebook:
+notebook
